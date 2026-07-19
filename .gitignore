@@ -1,0 +1,12 @@
+# Data files (never upload raw datasets to GitHub)
+data/*.csv
+data/*.xlsx
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env
+env/
